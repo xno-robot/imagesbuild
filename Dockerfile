@@ -1,1 +1,1 @@
-FROM gcr.io/istio-testing/install-cni:1.5-dev
+FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
